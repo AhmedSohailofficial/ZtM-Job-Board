@@ -1,0 +1,16 @@
+{
+    "name": "Ahmed Sohail",
+    "img": "https://github.com/164168AhmedSohail.png",
+    "email": "as404642@gmail.com",
+    "links": {
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/ahmed-sohail-03336a10a/",
+      "github": "https://github.com/164168AhmedSohail"
+    },
+    "jobTitle": "MERN Stack Developer",
+    "location": {
+      "city": "Lahore",
+      "state": "Punjab",
+      "country": "Pakistan"
+    }
+  }
